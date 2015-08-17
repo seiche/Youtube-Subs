@@ -1,0 +1,153 @@
+And in conclusion we have found MySQL to be an excelent database for our website.
+
+Any questions?
+
+Yes, I have a question.
+
+Why didn't you use MongoDB?
+
+MongoDB is a webscale database and doesn't use SQL or joints, so it's high perfomance.
+
+That's an excelement question.
+
+We evaluated several NoSQL databases and concoluded the options are still too immature for our production needs.
+
+MySQL is a proven database that is used across the web and it has the features we need.
+
+But it doesn't scale.
+
+Everybody knows that relational databases don't scale because they use joints and write to disk.
+
+Scalability is a complicated subject and it's hard to make a general statement like that.
+
+Relational databases weren't built for web scale.
+
+MongoDB handles webscale.
+
+You turn it on and it scales right up.
+
+It may surprise you there are a hand full of high profile web sites still using relational databses
+
+and in particular, MySQL
+
+Relationsal databases have impetus missmatch
+
+I think you mean impedance
+
+MySQL is slow as a dog
+
+MongoDB will run circles around MySQL because MongoDB is webscale
+
+MongoDB does have some impressive benchmarks
+
+but they do some interesting things to get those numbers
+
+For example, when you write to mongodb, you don't actually write anything.
+
+You stage your data to be written at a later time.
+
+If there's a problem writing your data, you're fucked
+
+Does that sound like good design to you?
+
+If that's what they need to do to get those kickass benchmarks
+
+then it's a great design
+
+If you are stupid enough to totally ignore durability just to get benchmarks
+
+I suggest you pipe your data to /dev/null, it will be very fast
+
+If /dev/null is fast and web scale i will use it
+
+Is it web scale?
+
+You are kidding me, right?
+
+I was making a joke,
+
+I mean if you are happy writing to a database that doesn't give you any idea
+
+that your data is actually written just becase you want high performance numbers,
+
+why not write to /dev/null? It's fast as hell.
+
+Does /dev/null support sharding?
+
+Holy shit. For my own mental health I am going to assume you're just messing with me
+
+and aren't actually retarded.
+
+Do you even know what a shard is?
+
+Shards are the secret ingrediant in the web scale sauce.
+
+They just work.
+
+Please tell me you don't actually make a living in a technology field.
+
+I'm a web programmer.
+
+As of this moment, I offically resign from my job as software engineer and
+
+will take up work on a farm shoveling pig shit
+
+and administering anal suppositories to sick horses
+
+because it will be a thousand times more tollerable than being in the same industry as dipshits like you
+
+You read the latest post on highscalability.com and think you're a fucking google architext
+
+and parrot slogans like "web scale" and "sharding" but you have no idea what the fuck you are talking about
+
+You're going to blow some project to hell because you get a woody playing with software like it was a sex doll
+
+Relational databases have been around since the fucking seventies and
+
+are some of the most mature technology you can find
+
+Yet somehow everything needs to be re-invented because google and amazon post some white papers
+
+If you need to build a globally distributed search engine that manages petabytes of data,
+
+fine build your own database
+
+But if you're like 99.9% percent of companies you can probably get by very well with something like MySQL and maybe memcache
+
+Redis will kick memchache's ass, it's so fast and scalable
+
+Right now I'm thinking of how much fun it will be to castrate my first bull, down on the farm
+
+I cannot wait to cut off the testicles of a 3000 pount raging bull as it tried to kick my head in
+
+MongoDB is a document database that doesn't need joints, it uses map reduce
+
+Now I'm cleaning a cyst of chicken shit but i don't care because I don't have to listen to the NoSQL fanboys
+
+reciting the feature list of their favorite schema free database
+
+By writing to memory map files MongoDB can improve its write through put by a factor of 10
+
+What the fuck, let's abandon transections, consistency, durability, and pin our mission critial data to a table and give it a night it will never forget
+
+I mean, who cares what we store as long as we do it quickly
+
+Oh, sorry that's right, i'm on the farm now sufficating from the stench of a thousand cows farts
+
+but it smelss like roses to me because i am nowhere near this moronic conversation
+
+MongoDB uses atomic modifiers for contentsion free performance
+
+Now I've contracted ecoli from cleaning cow stalls and am bleeding out my ass hole
+
+I'll be dead soon, but it is a welcome relief
+
+I will never have to whitness the collapse of the world economy because NoSQL radicals talks financial institutions
+
+into abandoning perfectly good data stores because they didn't support distributed fucking map reduce
+
+MongoDB stores files of any size without complicating your stack
+
+Thank you for your questions
+
+This presentation is over and I am fucking off to the farm to start my new career.
