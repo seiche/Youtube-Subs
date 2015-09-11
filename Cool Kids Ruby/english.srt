@@ -1,263 +1,351 @@
+1
 00:00:00,100 --> 00:00:01,000
 Good afternoon
 
+2
 00:00:01,200 --> 00:00:07,000
 As the receptionist may have explained to you, we provide an initial 15 minute consultation,
 
+3
 00:00:07,000 --> 00:00:09,800
 after which we charge for each session.
 
+4
 00:00:09,800 --> 00:00:11,400
 What would you like to talk about?
 
+5
 00:00:11,500 --> 00:00:15,800
 Doctor, my life isn't exactly what I'd like it to be right now.
 
+6
 00:00:16,000 --> 00:00:19,200
 I just spent 6 months in the hospital recovering from
 
+7
 00:00:19,200 --> 00:00:24,200
 severe head trauma and parasitic infection that I contracted while working a farm.
 
+8
 00:00:24,600 --> 00:00:27,000
 My god. What happened?
 
+9
 00:00:27,000 --> 00:00:29,600
 I'd rather not get into the details.
 
+10
 00:00:29,600 --> 00:00:31,200
 Yes,  certainty.
 
+11
 00:00:31,400 --> 00:00:35,200
 As you can imagine 6 months in a hospital bed is a long time
 
+12
 00:00:35,200 --> 00:00:39,000
 and it provides plenty of opportunities to contemplate life.
 
+13
 00:00:39,100 --> 00:00:44,200
 Meaning, why we're here. I thought working on a farm would help me clear my head
 
+14
 00:00:44,200 --> 00:00:47,200
 get a handle on what I was doing with my life.
 
+15
 00:00:47,300 --> 00:00:51,000
 I had some issues with people in my profession and it wasn't healthy
 
+16
 00:00:51,200 --> 00:00:53,300
 That's an important realization.
 
+17
 00:00:53,400 --> 00:00:59,200
 I needed to face the fact that the work I really love to do is being overrun by retarded monkeys
 
+18
 00:00:59,600 --> 00:01:01,400
 Retarded monkeys?
 
+19
 00:01:01,600 --> 00:01:03,600
 That's a very strong statement.
 
+20
 00:01:03,600 --> 00:01:08,300
 I used to get mad when I was asked to do stupid things by stupid people.
 
+21
 00:01:08,400 --> 00:01:13,200
 I fought back, then I only realized that it made my life worse.
 
+22
 00:01:13,200 --> 00:01:19,000
 Then I gave in, then I became homicidal. Then I became suicidal.
 
+23
 00:01:19,000 --> 00:01:24,600
 Then I saw what those guys at AMC are doing and I thought maybe life isn't so bad.
 
+24
 00:01:24,700 --> 00:01:29,800
 I mean, have you seen "Breaking Bad"? Talk about artistic integrity.
 
+25
 00:01:29,900 --> 00:01:32,200
 Holy shit that show is fantastic.
 
+26
 00:01:32,200 --> 00:01:36,100
 Tell me about something that affected you and your work prior to the farm.
 
+27
 00:01:36,600 --> 00:01:40,800
 Well, I was lead developer on a web application for a start up.
 
+28
 00:01:40,800 --> 00:01:45,600
 We chose PHP because it is the obvious choice for web development.
 
+29
 00:01:45,600 --> 00:01:49,600
 It is tightly integrated with Apache, scales marvelously,
 
+30
 00:01:49,600 --> 00:01:53,800
 and it's easy to find solid developers who know what the hell they are doing.
 
+31
 00:01:53,800 --> 00:01:58,200
 If you throw a dollar to the wall full of the top websites around the world,
 
+32
 00:01:58,200 --> 00:02:01,600
 chances are excellent you'd hit one using PHP.
 
+33
 00:02:01,600 --> 00:02:05,000
 I don't know what that means, but please go on.
 
+34
 00:02:05,100 --> 00:02:07,400
 The project was a huge success,
 
+35
 00:02:07,400 --> 00:02:11,600
 we finished on time and the site held up to the company's steady growth.
 
+36
 00:02:11,600 --> 00:02:13,200
 It all worked.
 
+37
 00:02:13,200 --> 00:02:16,700
 I mean, my god, it all worked so very well.
 
+38
 00:02:16,700 --> 00:02:18,150
 What happened?
 
+39
 00:02:18,200 --> 00:02:21,200
 Our company's VC brought in a new CTO.
 
+40
 00:02:21,200 --> 00:02:24,400
 He said we need to modernize our architecture.
 
+41
 00:02:24,400 --> 00:02:29,300
 He said the PHP reeked of the nineties and that Ruby was the new web language.
 
+42
 00:02:29,300 --> 00:02:33,600
 Doctor I swear to god I'm not making this shit up.
 
+43
 00:02:33,600 --> 00:02:37,400
 He said, honest to Christ, he said and I quote,
 
+44
 00:02:37,400 --> 00:02:40,400
 "Ruby is what all of the cool kids are using".
 
+45
 00:02:40,600 --> 00:02:44,600
 I had an honest to god brain aneurysm right there in the meeting.
 
+46
 00:02:44,600 --> 00:02:51,400
 I just sat and twitched in my chair, people finally called 911 after I vomited on the table.
 
+47
 00:02:51,400 --> 00:02:52,800
 That's incredible.
 
+48
 00:02:52,800 --> 00:02:56,250
 All of a sudden our team was crawling with Bohemian Ruby hipsters
 
+49
 00:02:56,250 --> 00:02:59,400
 with their Macintosh laptops and hemp satchels.
 
+50
 00:02:59,300 --> 00:03:02,400
 They sat around like first century Greek philosophers
 
+51
 00:03:02,400 --> 00:03:08,400
 considering the esthetic value of placing control statements before or after a block.
 
+52
 00:03:08,400 --> 00:03:11,600
 When I showed them our finally tuned SQL
 
+53
 00:03:11,600 --> 00:03:14,600
 which had been running in production for 3 months
 
+54
 00:03:14,600 --> 00:03:19,600
 They said that in the modern world databases go away and people work with model classes
 
+55
 00:03:19,800 --> 00:03:24,300
 They said that no one in their right mind would ever work directly with SQL because
 
+56
 00:03:24,300 --> 00:03:29,800
 objection relation mappers are so optimized that you'd be a fool to use anything else.
 
+57
 00:03:29,800 --> 00:03:32,400
 then they pretended to get a phone call
 
+58
 00:03:32,400 --> 00:03:36,300
 they said it was the eighties it wanted its Emacs editor back.
 
+59
 00:03:36,600 --> 00:03:38,200
 What is Emacs?
 
+60
 00:03:38,200 --> 00:03:42,000
 Oh god, never ask that question of an Emacs user.
 
+61
 00:03:42,100 --> 00:03:44,200
 What happened with your project?
 
+62
 00:03:44,200 --> 00:03:46,400
-We entered the ranks of the cool kids,
+We entered the ranks of the cool kids
 
+63
 00:03:46,400 --> 00:03:50,400
 our response time went from 300 milliseconds under PHP
 
+64
 00:03:50,400 --> 00:03:55,000
 to 3 seconds under Ruby, that's a ten fold increase.
 
+65
 00:03:55,000 --> 00:03:57,600
 The site had multi-hour outages.
 
+66
 00:03:57,600 --> 00:04:02,100
 It didn't matter though, because we had an architecture we could blog about.
 
+67
 00:04:02,100 --> 00:04:07,000
 When you're a cool kid everyone wants to know how you managed to make Ruby scale.
 
+68
 00:04:07,100 --> 00:04:12,800
 So you write about how you managed to use Redis and Tokyo Cabinet to solve your self inflicted problems
 
+69
 00:04:12,800 --> 00:04:18,400
 of storing user sessions in a high latency database like it's a big fucking revelation.
 
+70
 00:04:18,400 --> 00:04:24,000
 Weren't your users a little pissed that the site became so slow and was down for so long?
 
+71
 00:04:24,000 --> 00:04:26,400
 What do users have to do with making art?
 
+72
 00:04:26,400 --> 00:04:32,600
 Sure we lost paying customers because our website ran like a flaming pile of cat crap.
 
+73
 00:04:32,600 --> 00:04:38,300
-But when you look past the outages and consider the beauty of our finely crafted ruby source code
+But when you look past the outages and consider the beauty of our finely crafted Ruby source code
 
+74
 00:04:38,300 --> 00:04:44,000
 you weep, openly for joy, and thank god that you work among poets.
 
+75
 00:04:44,000 --> 00:04:46,000
 It does sound rather romantic.
 
+76
 00:04:46,000 --> 00:04:49,000
-Tell me more about these Bohemians
+Tell me more about these Bohemians.
 
+77
 00:04:49,000 --> 00:04:53,400
 For fucks sake, they think it's 1963 Greenwich village.
 
+78
 00:04:53,800 --> 00:04:58,800
 They would come to the office with one or two groupies just hanging out watching them work.
 
+79
 00:04:59,000 --> 00:05:02,000
 How the hell do software developers get groupies?
 
+80
 00:05:02,000 --> 00:05:05,800
 You never see PHP developers with groupies.
 
+81
 00:05:05,800 --> 00:05:10,500
 PHP developers are too busy building websites that actually work.
 
+82
 00:05:10,500 --> 00:05:14,400
 Have you considered that you maybe jealous of Ruby developers?
 
+83
 00:05:16,400 --> 00:05:17,800
 Fuck Ruby.
 
+84
 00:05:17,900 --> 00:05:22,800
 Fuck the poet philosophers with the gorgeous web applications and their groupies
 
+85
 00:05:22,800 --> 00:05:25,800
 and their amazing launch parties with pretty girls.
 
+86
 00:05:30,000 --> 00:05:31,800
 I'm afraid we our out of time.
 
+87
 00:05:31,900 --> 00:05:36,100
 Given your rather extreme case, I'd like to see you twice a week,
 
+88
 00:05:36,100 --> 00:05:38,200
 if that works for your schedule.
