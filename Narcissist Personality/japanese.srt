@@ -1,251 +1,327 @@
+1
 00:00:00,000 --> 00:00:02,000
-I see you're working on a new look.
+新しいルックを作っているようですね。
 
+2
 00:00:02,400 --> 00:00:06,000
-My guess is the I <3 Java t-shirt is meant to be ironic.
+「Javaが好き」のT-シャッツは皮肉のため着ているかな。
 
+3
 00:00:06,000 --> 00:00:11,700
-Doctor, I'm recreating myself as a swash-buckling hacker slavant with a darkside
+先生、私は外側は冷たいようなダークサイドのあるハッカーけど、
 
+4
 00:00:11,700 --> 00:00:17,000
-who is actually a nice guy underneight once you crack his world-be-damned nonchalants
+彼の正解感を理解するようになったら、実はナイスガイだとしてパーソナリティを作りなおしている。
 
+5
 00:00:17,200 --> 00:00:21,000
-Have you adopted a programming lanaguage to match your new persona?
+新しいパーソナリティに合ったプログラミング言語を選びましたか？
 
+6
 00:00:21,000 --> 00:00:24,200
-I haven't decided, but erlang is the front runner
+まだ決めていないけど、今はerlangを検討している
 
+7
 00:00:24,400 --> 00:00:26,000
-Why not closure?
+closureは使わない?
 
+8
 00:00:26,600 --> 00:00:27,600
-Oh please
+結構です
 
+9
 00:00:28,000 --> 00:00:31,700
-Let's talk about another work experience the affected you
+ではまた影響の仕事経験を話しましょうか？
 
+10
 00:00:32,000 --> 00:00:37,100
-Well, like most software companies we went through an outsourcing phase
+ま、多くのソフトウェア会社みたいにアウトソーシング時期がありました。
 
+11
 00:00:37,100 --> 00:00:40,000
-when our new CTO came on board
+新しいCTOが入社した時に
 
+12
 00:00:40,000 --> 00:00:43,400
-He immediately handed our most imporant development initiative
+彼はすぐ俺達の一番大事な開発プロジェクトを
 
+13
 00:00:43,400 --> 00:00:46,350
-over to a totally unproven team offshore
+自責のないオフショア・チームに依頼しました。
 
+14
 00:00:46,350 --> 00:00:049,100
-just because his buddy got him a really good price
+彼の友達は安い値段で交渉してくれたみたい。
 
+15
 00:00:049,100 --> 00:00:53,800
-the prospect of nearly doubling the size of his organization at such a cut rate
+あまりにも安い値段で組織の大きさを場合増やせるという可能性は
 
+16
 00:00:53,800 --> 00:00:56,000
-was simply more than he could resist
+どうも断れなかった。
 
+17
 00:00:56,200 --> 00:00:59,200
-I see many patients who lost jobs to outsourcing
+アウトソーシングで仕事がなくなった患者は多くいます。
 
+18
 00:00:59,300 --> 00:01:03,200
-My team oversaw the work and prior to the kick off meeting
+私のチームは管理の仕事を引き受けて、そして開始するミーティングの前に
 
+19
 00:01:03,200 --> 00:01:07,800
-we received a lecture on how the offshore team was very sensitive to critism
+オフショアのチームは批判に敏感という講義を受けさしてくれた
 
+20
 00:01:07,800 --> 00:01:11,000
-and that we had to make sure that no one lost face
+誰も恥をかけないように気をつけなければならなかった
 
+21
 00:01:11,100 --> 00:01:14,200
-Mainaining face is very important in many cultures
+恥をかけないのは多くの文化において大事なんですね。
 
+22
 00:01:14,300 --> 00:01:18,000
-In software culture maintaining face is not hard
+ソフトウェアにおいて恥を書かずに済むのは難しくありません。
 
+23
 00:01:18,200 --> 00:01:20,000
-it's actually very simple
+実は極論簡単なことです。
 
+24
 00:01:20,200 --> 00:01:24,200
-the rule of thumb is don't formally submit code that looks like
+ただ猫がキーボードの上で交尾した結果で書かれたソースコードを
 
+25
 00:01:24,200 --> 00:01:28,000
-it was written by two cats copulating on top of a keyboard
+正式的に提出しなければいいまでのことだけです。
 
+26
 00:01:28,000 --> 00:01:30,000
-i mean holy crist
+本当にホリー・クライスト
 
+27
 00:01:30,000 --> 00:01:33,400
-we would review their code when we got into the office and
+会社についたら彼のコードをレビューして
 
+28
 00:01:33,400 --> 00:01:38,400
-once we stopped laughing and pissing ourselves and regained some composure
+そうして小便を漏らすほどの笑いが止まったら
 
+29
 00:01:38,400 --> 00:01:42,200
-we sat around and tried to figure out how we could tell these imbiciles that
+どうだって気持ちに傷を着けずにこんな馬鹿者に
 
+30
 00:01:42,200 --> 00:01:45,900
-their code sucked balls without hurting their precious feelings
+ソースコードは全くもって使い物にならないということをどうやって伝えるかを考えました。
 
+31
 00:01:45,900 --> 00:01:49,000
-Providing constructive feedback is always challenging
+妥当な批判を伝えることは困難ですね。
 
+32
 00:01:49,000 --> 00:01:53,000
-For fucks sake, the only thing constructive that we could have done
+ファック, 彼らのソースコードの妥当に使い方としては
 
+33
 00:01:53,000 --> 00:01:57,100
-was to use their source files as random keys for ssl certs
+SSL認証にランダムキーとしか使い道がない。
 
+34
 00:01:57,100 --> 00:02:01,600
-We ended up rewriting their code and commiting it back under their account
+結局は彼らのソースコードを書き直して、彼のアカウントの下にコミットしました。
 
-00:00:00,000 --> 00:00:00,000
-They'd pick up the next day totally oblivious to that fact that the code changed
+35
+00:02:01,800 --> 00:02:06,800
+そして彼はは次の日に、コードが急に読みやすくなって、そうしてちゃんとう動くように
 
-00:00:00,000 --> 00:00:00,000
-was legible and actually worked
+36
+00:02:06,800 --> 00:02:09,200
+変わったと全く気ずかず仕事をやりつづけました。
 
-00:00:00,000 --> 00:00:00,000
-This happened again and again until the project was completed
+37
+00:02:09,500 --> 00:02:13,000
+そしてプロジェクトが完成するまでにずっとこの繰り返しでした。
 
-00:00:00,000 --> 00:00:00,000
-What happened
+38
+00:02:13,400 --> 00:02:14,500
+そこから何があった？
 
-00:00:00,000 --> 00:00:00,000
-The CTO was so happy with the work that he transferred all development offshore
+39
+00:02:14,600 --> 00:02:19,400
+CTOは喜びにあまりで全開発をオフショアのチームに移りました。
 
-00:00:00,000 --> 00:00:00,000
-and then he fired my team
+40
+00:02:19,400 --> 00:02:21,800
+そして僕のチームを首にしました。
 
-00:00:00,000 --> 00:00:00,000
-But you were the reason the project was successful
+41
+00:02:22,000 --> 00:02:24,400
+けどあなたはプロジェクトが成功した理由ではありませんか？
 
-00:00:00,000 --> 00:00:00,000
-I was honored to be part of the one of the universes great pound you in the ass ironies
+42
+00:02:24,500 --> 00:02:29,200
+宇宙のよくある胸を打つほどの皮肉に参加して光栄でした。
 
-00:00:00,000 --> 00:00:00,000
-In the end they never shipped another line of code and the company went out of business
+43
+00:02:29,400 --> 00:02:34,800
+結局会社はそれから一切コードを発行せず会社が倒産しました。
 
-00:00:00,000 --> 00:00:00,000
-When they found out who wrote the original code, they blamed my team for everything
+44
+00:02:34,800 --> 00:02:39,900
+彼らは元々のソースコードを書いたかの真実を分かった、私のチームのせいにしました。
 
-00:00:00,000 --> 00:00:00,000
-The CTO was celebrated as a genius tactician of start up efficiency and
+45
+00:02:39,900 --> 00:02:44,600
+CTOはスタート・アップの効率を誇るほどの天才戦術家として評価されて
 
-00:00:00,000 --> 00:00:00,000
-appointed by the VC to another happless company
+46
+00:02:44,600 --> 00:02:47,400
+そしてVCに次の犠牲となる会社に送りつけた。
 
-00:00:00,000 --> 00:00:00,000
-You can read about it in the tech crunch deadpool.
+47
+00:02:47,400 --> 00:02:50,100
+「テック・クランチ・デッドプール」の中で詳細を読める。
 
-00:00:00,000 --> 00:00:00,000
-That CTO is a total douchebag
+48
+00:02:50,200 --> 00:02:52,200
+あのCTOは本当にうざい野郎のようね。
 
-00:00:00,000 --> 00:00:00,000
-The man was,
+49
+00:02:52,300 --> 00:02:54,000
+あの人は．．．
 
-00:00:00,000 --> 00:00:00,000
-um I'm not actually sure there's a word to describe this man
+50
+00:02:54,100 --> 00:02:58,600
+実はどうやってその人物を説明すればいいのか、言葉がわかりません。
 
-00:00:00,000 --> 00:00:00,000
-It's a combination of extreme arrogance and utter stupidity
+51
+00:02:58,700 --> 00:03:02,500
+書け切れない傲慢と極論の愚かさが合体した組み合わせ。
 
-00:00:00,000 --> 00:00:00,000
-"douch-baggery" is close, but it's not what i'm looking for
+52
+00:03:02,500 --> 00:03:06,400
+「うざい野郎」は確かに近いけどまだ微妙に違うように気がします。
 
-00:00:00,000 --> 00:00:00,000
-What you're describing on one hand is classic narcissism
+53
+00:03:06,600 --> 00:03:10,400
+説明しているのは教科書通りのナルシシズム。
 
-00:00:00,000 --> 00:00:00,000
-The first sign is an exagerated sense of self-importance
+54
+00:03:10,500 --> 00:03:14,100
+最初の症状は拡大した自惚れの感覚。
 
-00:00:00,000 --> 00:00:00,000
-Did you observe this?
+55
+00:03:14,500 --> 00:03:16,000
+これを関ししましたか？
 
-00:00:00,000 --> 00:00:00,000
-On a daily basis.
+56
+00:03:16,100 --> 00:03:17,800
+毎日。
 
-00:00:00,000 --> 00:00:00,000
-What about a procupation with fantasies of unlimited success, power, or briliance?
+57
+00:03:17,800 --> 00:03:23,200
+それと無限力、非現実的な成功感などのファンタジーに関する先入観？
 
-00:00:00,000 --> 00:00:00,000
-All of the fucking time.
+58
+00:03:23,200 --> 00:03:24,900
+いつものことでした。
 
-00:00:00,000 --> 00:00:00,000
-Requires eccessive admiration
+59
+00:03:25,400 --> 00:03:27,400
+以上に感嘆を必要とする。
 
-00:00:00,000 --> 00:00:00,000
-Constantly
+60
+00:03:27,400 --> 00:03:28,700
+絶えず
 
-00:00:00,000 --> 00:00:00,000
-Has a sense of entitlement
+61
+00:03:28,800 --> 00:03:30,600
+何をやってもいいという資格の感覚を持つ。
 
-00:00:00,000 --> 00:00:00,000
-Overwelmingly
+62
+00:03:30,700 --> 00:03:32,000
+正に
 
-00:00:00,000 --> 00:00:00,000
-Show arrogant, haughty, patronizing or conteptuous behaviours or attitudes
+63
+00:03:32,100 --> 00:03:37,700
+傲慢な、横柄な、恩着せがましいまたは軽蔑的なの態度と高度様式？
 
-00:00:00,000 --> 00:00:00,000
-My god, there's a name for this?
+64
+00:03:37,800 --> 00:03:40,400
+マイ・ゴッド！これを表現する言葉があったの？
 
-00:00:00,000 --> 00:00:00,000
-It's called "Narcissistic Personality Disorder"
+65
+00:03:40,600 --> 00:03:43,400
+「ナルシスト・パーソナリティ障害」と呼ばれていますね。
 
-00:00:00,000 --> 00:00:00,000
-Holy shit, but there's still and element that I'm struggling to describe
+66
+00:03:43,500 --> 00:03:48,200
+ホリー・シート！けどまだ一部説明しきれない様子があります。
 
-00:00:00,000 --> 00:00:00,000
-it's almost as if he is mentally retarded
+67
+00:03:48,200 --> 00:03:51,000
+まるで知恵遅れのようでした。
 
-00:00:00,000 --> 00:00:00,000
-Metal retardation amoung senior management in most companies is quite rare
+68
+00:03:51,200 --> 00:03:55,500
+知的障害は会社の経営者レベルにおいて非常に珍しい
 
-00:00:00,000 --> 00:00:00,000
-I'm no expert, but this man exhibited classic retard behavior
+69
+00:03:55,600 --> 00:04:02,000
+専門家じゃないけど、ミーティングで彼を見かけた度に知恵遅れの行動様式を示してた
 
-00:00:00,000 --> 00:00:00,000
-in every meeting i saw him in
+70
+00:04:02,100 --> 00:04:07,000
+もし彼が事項吸収的な発言を終わってから、彼の椅子に戻って
 
-00:00:00,000 --> 00:00:00,000
-if after one of his self absorbed overatories he would return to his chain and
+71
+00:04:07,000 --> 00:04:10,700
+そして口でおなら音を出しながらコーヒをシャーツにこぼしたら
 
-00:00:00,000 --> 00:00:00,000
-drool coffee on to his shirt while making fart noises with his mouth
+72
+00:04:10,800 --> 00:04:13,100
+誰もなんとも思わない
 
-00:00:00,000 --> 00:00:00,000
-no one would give it a second thought
+73
+00:04:14,000 --> 00:04:19,400
+先生彼は完全に「ナルシスト・知的障害」だと思います。
 
-00:00:00,000 --> 00:00:00,000
-Docter i believe has has full blown
+74
+00:04:20,200 --> 00:04:22,000
+それは本当の病気じゃない
 
-00:00:00,000 --> 00:00:00,000
-Narcissistic Metal Retardation Disorder
+75
+00:04:22,400 --> 00:04:25,600
+これにおいては手伝ってくれてありがたいですね。
 
-00:00:00,000 --> 00:00:00,000
-That's not a real condition
+76
+00:04:25,700 --> 00:04:30,000
+彼のリーダーシップの元で苦しかった体験は
 
-00:00:00,000 --> 00:00:00,000
-I can't thank you enough for helping me work through this
+77
+00:04:30,000 --> 00:04:35,000
+くしゃみは風を引く見たい仕方ありませんの体験であったことを聞いてホッとしました。
 
-00:00:00,000 --> 00:00:00,000
-it's so liberating to know that my tortured existence under the leadership
+78
+00:04:35,200 --> 00:04:37,400
+その時にしっておければよかった。
 
-00:00:00,000 --> 00:00:00,000
-of this shit-for-brains was no more an injustice than catching a cold
+79
+00:04:37,500 --> 00:04:42,800
+「ナルシスト・知的障害」やっと納得しました。
 
-00:00:00,000 --> 00:00:00,000
-from a random sneeze had i only known at the time
+80
+00:04:42,800 --> 00:04:48,600
+彼はナルシスト・知的・障害があります。
 
-00:00:00,000 --> 00:00:00,000
-Narcissistic mental retardation disorder, it makes perfect sense
+81
+00:04:50,100 --> 00:04:51,450
+時間が切れたようです。
 
-00:00:00,000 --> 00:00:00,000
-He is Narcissistic, Mental, Retardation Disorder
-
-00:00:00,000 --> 00:00:00,000
-I see our time is up
-
-00:00:00,000 --> 00:00:00,000
-This has been produtive
+82
+00:04:52,050 --> 00:04:53,800
+今回は進んだようですね。

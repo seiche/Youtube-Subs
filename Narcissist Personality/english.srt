@@ -1,245 +1,327 @@
+1
 00:00:00,000 --> 00:00:02,000
 I see you're working on a new look.
 
+2
 00:00:02,400 --> 00:00:06,000
 My guess is the I <3 Java t-shirt is meant to be ironic.
 
+3
 00:00:06,000 --> 00:00:11,700
 Doctor, I'm recreating myself as a swash-buckling hacker slavant with a darkside
 
+4
 00:00:11,700 --> 00:00:17,000
 who is actually a nice guy underneight once you crack his world-be-damned nonchalants
 
+5
 00:00:17,200 --> 00:00:21,000
 Have you adopted a programming lanaguage to match your new persona?
 
+6
 00:00:21,000 --> 00:00:24,200
 I haven't decided, but erlang is the front runner
 
+7
 00:00:24,400 --> 00:00:26,000
 Why not closure?
 
+8
 00:00:26,600 --> 00:00:27,600
 Oh please
 
+9
 00:00:28,000 --> 00:00:31,700
 Let's talk about another work experience the affected you
 
+10
 00:00:32,000 --> 00:00:37,100
 Well, like most software companies we went through an outsourcing phase
 
+11
 00:00:37,100 --> 00:00:40,000
 when our new CTO came on board
 
+12
 00:00:40,000 --> 00:00:43,400
 He immediately handed our most imporant development initiative
 
+13
 00:00:43,400 --> 00:00:46,350
 over to a totally unproven team offshore
 
+14
 00:00:46,350 --> 00:00:049,100
 just because his buddy got him a really good price
 
+15
 00:00:049,100 --> 00:00:53,800
 the prospect of nearly doubling the size of his organization at such a cut rate
 
+16
 00:00:53,800 --> 00:00:56,000
 was simply more than he could resist
 
+17
 00:00:56,200 --> 00:00:59,200
 I see many patients who lost jobs to outsourcing
 
+18
 00:00:59,300 --> 00:01:03,200
 My team oversaw the work and prior to the kick off meeting
 
+19
 00:01:03,200 --> 00:01:07,800
 we received a lecture on how the offshore team was very sensitive to critism
 
+20
 00:01:07,800 --> 00:01:11,000
 and that we had to make sure that no one lost face
 
+21
 00:01:11,100 --> 00:01:14,200
 Mainaining face is very important in many cultures
 
+22
 00:01:14,300 --> 00:01:18,000
 In software culture maintaining face is not hard
 
+23
 00:01:18,200 --> 00:01:20,000
 it's actually very simple
 
+24
 00:01:20,200 --> 00:01:24,200
 the rule of thumb is don't formally submit code that looks like
 
+25
 00:01:24,200 --> 00:01:28,000
 it was written by two cats copulating on top of a keyboard
 
+26
 00:01:28,000 --> 00:01:30,000
 i mean holy crist
 
+27
 00:01:30,000 --> 00:01:33,400
 we would review their code when we got into the office and
 
+28
 00:01:33,400 --> 00:01:38,400
 once we stopped laughing and pissing ourselves and regained some composure
 
+29
 00:01:38,400 --> 00:01:42,200
 we sat around and tried to figure out how we could tell these imbiciles that
 
+30
 00:01:42,200 --> 00:01:45,900
 their code sucked balls without hurting their precious feelings
 
+31
 00:01:45,900 --> 00:01:49,000
 Providing constructive feedback is always challenging
 
+32
 00:01:49,000 --> 00:01:53,000
 For fucks sake, the only thing constructive that we could have done
 
+33
 00:01:53,000 --> 00:01:57,100
 was to use their source files as random keys for ssl certs
 
+34
 00:01:57,100 --> 00:02:01,600
 We ended up rewriting their code and commiting it back under their account
 
+35
 00:02:01,800 --> 00:02:06,800
 They'd pick up the next day totally oblivious to that fact that the code changed
 
+36
 00:02:06,800 --> 00:02:09,200
 was legible and actually worked
 
+37
 00:02:09,500 --> 00:02:13,000
 This happened again and again until the project was completed
 
+38
 00:02:13,400 --> 00:02:14,500
 What happened
 
+39
 00:02:14,600 --> 00:02:19,400
 The CTO was so happy with the work that he transferred all development offshore
 
+40
 00:02:19,400 --> 00:02:21,800
 and then he fired my team
 
+41
 00:02:22,000 --> 00:02:24,400
 But you were the reason the project was successful
 
+42
 00:02:24,500 --> 00:02:29,200
 I was honored to be part of the one of the universes great pound you in the ass ironies
 
+43
 00:02:29,400 --> 00:02:34,800
 In the end they never shipped another line of code and the company went out of business
 
+44
 00:02:34,800 --> 00:02:39,900
 When they found out who wrote the original code, they blamed my team for everything
 
+45
 00:02:39,900 --> 00:02:44,600
 The CTO was celebrated as a genius tactician of start up efficiency and
 
+46
 00:02:44,600 --> 00:02:47,400
 appointed by the VC to another happless company
 
+47
 00:02:47,400 --> 00:02:50,100
 You can read about it in the tech crunch deadpool.
 
+48
 00:02:50,200 --> 00:02:52,200
 That CTO is a total douchebag
 
+49
 00:02:52,300 --> 00:02:54,000
 The man was,
 
+50
 00:02:54,100 --> 00:02:58,600
 um I'm not actually sure there's a word to describe this man
 
+51
 00:02:58,700 --> 00:03:02,500
 It's a combination of extreme arrogance and utter stupidity
 
+52
 00:03:02,500 --> 00:03:06,400
 "douch-baggery" is close, but it's not what i'm looking for
 
+53
 00:03:06,600 --> 00:03:10,400
 What you're describing on one hand is classic narcissism
 
+54
 00:03:10,500 --> 00:03:14,100
 The first sign is an exagerated sense of self-importance
 
+55
 00:03:14,500 --> 00:03:16,000
 Did you observe this?
 
+56
 00:03:16,100 --> 00:03:17,800
 On a daily basis.
 
+57
 00:03:17,800 --> 00:03:23,200
 What about a procupation with fantasies of unlimited success, power, or briliance?
 
+58
 00:03:23,200 --> 00:03:24,900
 All of the fucking time.
 
+59
 00:03:25,400 --> 00:03:27,400
 Requires eccessive admiration
 
+60
 00:03:27,400 --> 00:03:28,700
 Constantly
 
+61
 00:03:28,800 --> 00:03:30,600
 Has a sense of entitlement
 
+62
 00:03:30,700 --> 00:03:32,000
 Overwelmingly
 
+63
 00:03:32,100 --> 00:03:37,700
 Show arrogant, haughty, patronizing or conteptuous behaviours or attitudes
 
+64
 00:03:37,800 --> 00:03:40,400
 My god, there's a name for this?
 
+65
 00:03:40,600 --> 00:03:43,400
 It's called "Narcissistic Personality Disorder"
 
+66
 00:03:43,500 --> 00:03:48,200
 Holy shit, but there's still and element that I'm struggling to describe
 
+67
 00:03:48,200 --> 00:03:51,000
 it's almost as if he is mentally retarded
 
+68
 00:03:51,200 --> 00:03:55,500
 Metal retardation amoung senior management in most companies is quite rare
 
+69
 00:03:55,600 --> 00:04:02,000
 I'm no expert, but this man exhibited classic retard behavior in every meeting i saw him in
 
+70
 00:04:02,100 --> 00:04:07,000
 if after one of his self absorbed overatories he would return to his chair and
 
+71
 00:04:07,000 --> 00:04:10,700
 drool coffee on to his shirt while making fart noises with his mouth
 
+72
 00:04:10,800 --> 00:04:13,100
 no one would give it a second thought
 
+73
 00:04:14,000 --> 00:04:19,400
 Docter i believe has has full blown Narcissistic Metal Retardation Disorder
 
+74
 00:04:20,200 --> 00:04:22,000
 That's not a real condition
 
+75
 00:04:22,400 --> 00:04:25,600
 I can't thank you enough for helping me work through this
 
+76
 00:04:25,700 --> 00:04:30,000
 it's so liberating to know that my tortured existence under the leadership
 
+77
 00:04:30,000 --> 00:04:35,000
 of this shit-for-brains was no more an injustice than catching a cold from a random sneeze
 
+78
 00:04:35,200 --> 00:04:37,400
 had i only known at the time
 
+79
 00:04:37,500 --> 00:04:42,800
 Narcissistic mental retardation disorder, it makes perfect sense
 
+80
 00:04:42,800 --> 00:04:48,600
 He has Narcissistic, Mental, Retardation Disorder
 
+81
 00:04:50,100 --> 00:04:51,450
 I see our time is up
 
+82
 00:04:52,050 --> 00:04:53,800
 This has been produtive
